@@ -6,7 +6,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Links
 
-Logo: https://raw.githubusercontent.com/samueeli/brandAssets/main/images/Raivo-Logo.png
+Logo: https://raw.githubusercontent.com/samueeli/brandAssets/main/images/logo.png
 
 BrandPage: https://raw.githubusercontent.com/samueeli/brandAssets/main/images/BrandPage.png
 
